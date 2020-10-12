@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 200 200" style="enable-background:new 0 0 200.7 197.7;" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <view id="view-1" viewBox="250 0 200 200">
+      <title>View 1</title>
+    </view>
+  </defs>
+  <style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:none;}
+	.st2{display:inline;}
+	.st3{fill:#231F20;}
+</style>
+  <g>
+    <path stroke-miterlimit="4" id="path7" d="M 55.527 16.177 C 28.53 16.177 6.619 38.088 6.619 65.085 C 6.619 120.008 62.022 134.407 99.773 188.704 C 135.466 134.74 192.929 118.254 192.929 65.085 C 192.929 38.088 171.018 16.177 144.021 16.177 C 124.438 16.177 107.584 27.74 99.773 44.376 C 91.964 27.74 75.11 16.177 55.527 16.177 Z" style="fill: rgb(255, 0, 0); paint-order: stroke markers; stroke-width: 8px; stroke: rgb(255, 0, 0);"/>
+    <g style="" transform="matrix(0.590112, 0, 0, 0.590112, 40.477318, 33.089527)">
+      <title>cinc logo</title>
+      <polygon class="st3" points="80.7,28.9 110.6,58.9 140.4,58.9 140.4,88.7 170.3,118.6 170.3,28.9 &#9;&#9;" style="fill: rgb(255, 255, 255);"/>
+      <polygon class="st3" points="60.5,138.8 60.5,109 30.5,79.1 30.5,168.8 120.2,168.8 90.2,138.8 &#9;&#9;" style="fill: rgb(255, 255, 255);"/>
+      <polygon class="st3" points="51.7,28.9 30.5,28.9 30.5,50.1 60.5,80.1 60.5,37.7 &#9;&#9;" style="fill: rgb(255, 255, 255);"/>
+      <polygon class="st3" points="68.7,46 68.7,88.3 149.2,168.8 170.3,168.8 170.3,147.6 &#9;&#9;" style="fill: rgb(255, 255, 255);"/>
+    </g>
+    <path stroke-miterlimit="4" id="path-1" d="M 306.778 15.058 C 279.781 15.058 257.87 36.969 257.87 63.966 C 257.87 118.889 313.273 133.288 351.024 187.585 C 386.717 133.621 444.18 117.135 444.18 63.966 C 444.18 36.969 422.269 15.058 395.272 15.058 C 375.689 15.058 358.835 26.621 351.024 43.257 C 343.215 26.621 326.361 15.058 306.778 15.058 Z" style="paint-order: stroke markers; stroke-width: 8px; stroke: rgb(68, 0, 170); fill: rgb(68, 0, 170);"/>
+    <g style="" transform="matrix(0.590112, 0, 0, 0.590112, 291.728363, 31.970537)">
+      <title>cinc logo</title>
+      <polygon class="st3" points="80.7,28.9 110.6,58.9 140.4,58.9 140.4,88.7 170.3,118.6 170.3,28.9 &#9;&#9;" style="fill: rgb(255, 255, 255);"/>
+      <polygon class="st3" points="60.5,138.8 60.5,109 30.5,79.1 30.5,168.8 120.2,168.8 90.2,138.8 &#9;&#9;" style="fill: rgb(255, 255, 255);"/>
+      <polygon class="st3" points="51.7,28.9 30.5,28.9 30.5,50.1 60.5,80.1 60.5,37.7 &#9;&#9;" style="fill: rgb(255, 255, 255);"/>
+      <polygon class="st3" points="68.7,46 68.7,88.3 149.2,168.8 170.3,168.8 170.3,147.6 &#9;&#9;" style="fill: rgb(255, 255, 255);"/>
+    </g>
+  </g>
+</svg>
